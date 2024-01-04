@@ -16,7 +16,6 @@ href_tag = ARGV[5]
 max_retries, retry_count = 3, 0
 page_number = is_paginated == 'true' ? 1 : nil
 graph = RDF::Graph.new
-threads = []
 
 loop do
   url = "#{page_url}#{page_number}"
@@ -47,7 +46,7 @@ loop do
   entity_urls.each do |entity|
     begin
       entity = entity.gsub(' ', '+')
-      threads << Thread.new { graph << RDF::Graph.load(entity) }
+      graph << RDF::Graph.load(entity) 
     rescue StandardError => e
       puts "Error loading RDF from #{entity}: #{e.message}"
       break
@@ -60,7 +59,6 @@ loop do
   end
   retry_count = 0
 end
-threads.each(&:join)
 File.open(file_name, 'w') do |file|
   file.puts(graph.dump(:jsonld))
 end
