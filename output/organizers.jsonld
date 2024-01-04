@@ -1,0 +1,3809 @@
+[
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Camille+Usher",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Camille%2BUsher",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-29T01:41:19"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-24T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/avatars/134/ICCA-mark-colour-03.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/indigenous-artists/",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance Membership Directory"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q113164737"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458220",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Camille"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://icca.art/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/134/ICCA-mark-colour-03.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g458240"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g458260"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "ICCA"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g458280"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16960132"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g458300"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "262-401 Richmond St W"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "M5V3A8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458260",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "817788136"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458280",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Camille Usher"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "c.usher@acc-cca.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/a11",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/a11",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-06T14:46:23"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-22T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/cropped-DW-2-1-e1516681221659.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g457500",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Article 11"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://article11.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/cropped-DW-2-1-e1516681221659.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g457520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q114980915"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g457540"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g457520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Toronto"
+      }
+    ]
+  },
+  {
+    "@id": "_:g457540",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Himanshu+Sitlani",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Himanshu%2BSitlani",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-11T20:06:43"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-24T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/native-earth-yellow-gold-logo_transparent-BIGx-txt-2.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458920",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Native Earth Performing Arts"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.nativeearth.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/native-earth-yellow-gold-logo_transparent-BIGx-txt-2.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g458940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6980009"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g458960"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "250 - 585 Dundas Street East"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "M5A2B7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458960",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Enowkin+Centre",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Enowkin%2BCentre",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-06-16T22:05:57"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-24T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/EC-LOGO-2020-JPEG.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459660",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "En'owkin Centre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.enowkincentre.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/EC-LOGO-2020-JPEG.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g459680"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q30293372"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g459700"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Penticton"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "154 En'owkin Trail"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V2A 0E1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459700",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/IVinc",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/IVinc",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-12-18T23:40:25"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-24T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IV_LOCKUP_VERT_COLOR.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460440",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Inclusive Voices Incorporated"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.inclusivevoices.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IV_LOCKUP_VERT_COLOR.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460460"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g460480"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g460500"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Wolfe Island"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "337 Button Bay Road"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K0H 2Y0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460480",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dr. Terri-Lynn Brennan"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "TERRI.BRENNAN@INCLUSIVEVOICES.COM"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "16134849019"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460500",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/NAC+Indigenous+Theatre",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/NAC%2BIndigenous%2BTheatre",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-02-01T23:46:42"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-27T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/NAC_4C_Tag.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461720",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "NAC Indigenous Theatre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nac-cna.ca/en/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/NAC_4C_Tag.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g461740"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g461760"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q105878246"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g461780"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g461800"
+      },
+      {
+        "@id": "_:g461820"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Ottawa"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1 Elgin Street, PO Box 1534, Stn. B"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K1P 5W6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461760",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "119051407rt0001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461800",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dance"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11639"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461820",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11635"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Making+Treaty+7",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Making%2BTreaty%2B7",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-16T21:11:01"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-27T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/avatars/290/2.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463000",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Making Treaty 7 Cultural Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.makingtreaty7.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/290/2.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g463020"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g463040"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "MT7"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q60761258"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g463060"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g463080"
+      },
+      {
+        "@id": "_:g463100"
+      },
+      {
+        "@id": "_:g463120"
+      },
+      {
+        "@id": "_:g463140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "AB"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Calgary"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "608 1st Street SW"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "T2P 1M6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463040",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "82837 3639 RR0001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463080",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dance"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11639"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463100",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Film"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q590870"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463120",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Music"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q638"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463140",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11635"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/IndigenEd",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/IndigenEd",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-10-04T23:15:39"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-27T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IndigenEd-Logo1.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466920",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "IndigenEd"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://indigened.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IndigenEd-Logo1.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g466940"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g466960"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115017299"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g466980"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g467000"
+      },
+      {
+        "@id": "_:g467020"
+      },
+      {
+        "@id": "_:g467040"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466940",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Gore Bay"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "35 Phipps Street"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P0P 1H0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466960",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "736212929RT0001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466980",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467000",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dance"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11639"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467020",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Music"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q638"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467040",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Variety"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q117187901"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Debajehmujig+Storytellers",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Debajehmujig%2BStorytellers",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2022-12-16T21:11:19"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-27T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/newdebajlogo2018.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468000",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Debajehmujig Theatre Group"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.debaj.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/newdebajlogo2018.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g468020"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g468040"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Debajehmujig Storytellers"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5243817"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g468060"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g468080"
+      },
+      {
+        "@id": "_:g468100"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468020",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Wiikwemkoong"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "8 DEBAJEHMUJIG LANE"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P0P2J0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468040",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "89294267RR0001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468080",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Music"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q638"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468100",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11635"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/GwaandakTheatre",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Margo+Kane",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Margo%2BKane",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-23T23:38:45"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-23T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/fullcircle_blackred.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Full Circle: First Nations Performance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fullcircle.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/fullcircle_blackred.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g470960"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g470980"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-81"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q112510114"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g471000"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470960",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "125A-1030 Denman Street"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6G 2M6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470980",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Margo Kane"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "info@fullcircle.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471000",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/firstlightnl",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/firstlightnl",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-03-25T21:28:18"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-23T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/avatars/65/firstlightlogoipaa.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473500",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "First Light"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://firstlightnl.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/65/firstlightlogoipaa.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g473520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115012692"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g473540"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NL"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "St. John's"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "716 Water Street"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "A1E1C1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473540",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/btss",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/btss",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-12T17:00:23"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-22T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/btss.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Beneath the Surface Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.imaginationcollective.net/beneath-the-surface-society"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/btss.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g476280"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g476300"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "BTSS"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115009257"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g476320"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476300",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1234567890"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Dreamspeakers",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Dreamspeakers",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-05-13T19:59:32"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-27T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/DS-Single-Logo.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dreamspeakers Festival Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://dreamspeakers.org/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/DS-Single-Logo.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g475440"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115009951"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g475460"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475440",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "AB"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Edmonton"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "Suite 201, 11051 - 97 Street NW"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "T5H 2N2"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475460",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Urban+Ink",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Urban%2BInk",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-02-14T22:38:25"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-22T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://urbanink.ca/wp-content/uploads/2020/09/UI-logo.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Urban Ink"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://urbanink.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://urbanink.ca/wp-content/uploads/2020/09/UI-logo.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g474960"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g474980"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g475000"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g475020"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474960",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "111 Hastings Street West, #220"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6B 1H4"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474980",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "CR# 876689217RR0001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475000",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dawn Brennan"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "dawn@urbanink.ca"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "6046920885"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475020",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/SavageSociety",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/SavageSociety",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-25T01:07:08"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-23T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/avatars/119/Savage Logo colour copy.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480560",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Savage Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savagesociety.ca"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g480580"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g480600"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115036746"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g480620"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "New Westminster"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "319 8th street"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V3M 3R3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480600",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "809650732"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480620",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Ed+Mendez",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Ed%2BMendez",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-07-21T12:02:05"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-24T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/GTNT_logos_GTNT-Colour-on-black-Acronym-Large.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480740",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gordon Tootoosis Nīkānīwin Theatre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gtnt.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/GTNT_logos_GTNT-Colour-on-black-Acronym-Large.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g480760"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g480780"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g480800"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115013247"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g480820"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480760",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "SK"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Saskatoon"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "539 20th St W"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "S7M 0X6"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480780",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "871745154RR0001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480800",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Jennifer Dawn Bishop"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "ad@gtnt.ca"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "3069741476"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480820",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/IngagedCreative",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/IngagedCreative",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-08-05T19:26:10"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-24T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Ingaged-Black-Logo-PNG.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ingaged Creative Productions"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ingaged.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Ingaged-Black-Logo-PNG.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g484340"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g484360"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Ingaged"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g484380"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115017642"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g484400"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Fort William First Nation"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "7 - 656 City Road"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P7J1K3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484360",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "789033073"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484380",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Corey Anderson"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "canderson@ingaged.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/test+shaw",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/test%2Bshaw",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-23T22:12:54"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-10-23T22:12:54"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Screenshot-2023-10-17-at-9.25.52-AM.png"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "fhshs"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Screenshot-2023-10-17-at-9.25.52-AM.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g485880"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g485900"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g485920"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g485940"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485880",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Ohsweken"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "N0A 1M0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485900",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "982345019"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485920",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485940",
+    "@type": [
+      "http://schema.org/Specialty"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Film"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q590870"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/vnidansi",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/vnidansi",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2021-08-24T00:13:28"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-27T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/avatars/244/mady.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488440",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "V'ni Dansi"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.vnidansi.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/244/mady.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g488460"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g488480"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g488500"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115037366"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g488520"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488460",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "PO Box 95071 Kingsgate"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V5T 4T8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488480",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "830761276RR0001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488500",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Yvonne Chartrand"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "info@vnidansi.ca"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@value": "6043587435"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488520",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/RedSkyPerformance",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/RedSkyPerformance",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-30T00:23:54"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-24T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Red-Sky-PERFORMANCE-logo-No-AD-HR.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490200",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Red Sky Performance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.redskyperformance.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Red-Sky-PERFORMANCE-logo-No-AD-HR.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g490220"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g490240"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7305049"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g490260"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Toronto"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "401 Richmond Street West, Suite 420"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "M5V 3A8"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490240",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sandra Laronde"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "sandra@redskyperformance.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/Raven+Spirit",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/Raven%2BSpirit",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-04-27T22:12:58"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-23T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/RSD-Logo-2.jpeg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g492320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Raven Spirit Dance Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.ravenspiritdance.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/RSD-Logo-2.jpeg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g492340"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q107281881"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g492360"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g492340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "BC"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Vancouver "
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "#230 - 111 West Hastings Street"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "V6B 1H4"
+      }
+    ]
+  },
+  {
+    "@id": "_:g492360",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/NIFF",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/NIFF",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2020-02-14T22:39:04"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-22T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/avatars/49/04E2C047-F9C1-4088-8835-F8D94EA366F3.jpeg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493800",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Nogojiwanong Indigenous Fringe Festival"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://indigenousfringefest.weebly.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/49/04E2C047-F9C1-4088-8835-F8D94EA366F3.jpeg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g493820"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g493840"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "NIFF"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g493860"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115018455"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g493880"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Peterborough"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "650 Gilchrist Street"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "K9H 4P3"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493840",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "BN"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "746376078RC001"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493860",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Lee Bolton"
+      }
+    ],
+    "http://schema.org/email": [
+      {
+        "@value": "leebolton@trentu.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca//profile/indigenous-organization/adaka",
+    "https://api.w.org/": [
+      {
+        "@id": "https://ipaa.ca/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://ipaa.ca/profile/indigenous-organization/adaka",
+    "@type": [
+      "http://schema.org/ItemPage"
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2019-08-06T14:25:20"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2023-02-22T05:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@value": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/adaka.jpg"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://ipaa.ca/indigenous-artists/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Adäka Cultural Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.adakafestival.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/adaka.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g496800"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g496820"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496800",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "YT"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Whitehorse"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1-1109 Front Street"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "Y1A 5G4"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496820",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indigenous Performing Arts Alliance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://ipaa.ca/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  }
+]
