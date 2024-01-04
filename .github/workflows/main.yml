@@ -42,7 +42,7 @@ jobs:
           ${{ github.event.inputs.page_url }} \
           ${{ github.event.inputs.base_url }} \
           ${{ github.event.inputs.entity_identifier }} \
-          ${{ github.event.inputs.file_name }} \
+          output/${{ github.event.inputs.file_name }} \
           ${{ github.event.inputs.is_paginated }} \
           ${{ github.event.inputs.href_tag }}
 
