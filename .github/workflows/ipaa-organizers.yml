@@ -1,4 +1,4 @@
-name: Fetch Ipaa Artists
+name: Fetch Ipaa Organizers
 
 on:
   workflow_dispatch:
