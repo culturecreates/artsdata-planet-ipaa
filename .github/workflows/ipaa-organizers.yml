@@ -11,17 +11,15 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Ruby
-      uses: actions/setup-ruby@v1
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.1'
-    - run: bundle install
-
+        bundler-cache: true
     - name: Run Main Script
       run: |
-          ruby main.rb \
+          bundle exec ruby main.rb \
           https://ipaa.ca/indigenous-organizations/ \
           https://ipaa.ca/ \
           "div.membership-members-outer div.member-card" \
