@@ -1,0 +1,14 @@
+{
+  "@context":"http://schema.org",
+  "@graph":[
+    {
+      "@type":"Person",
+      "name":"Person with blank node"
+    },
+    {
+      "@type":"Person",
+      "@id":"http://example.com/person1",
+      "name":"Person with existing URI"
+    }
+  ]
+}

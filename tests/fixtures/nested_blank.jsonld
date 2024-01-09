@@ -1,0 +1,16 @@
+{
+  "@context":"http://schema.org",
+  "@graph":[
+    {
+      "@type":"Person",
+      "name":"Person with blank node",
+      "address": { "@type":"PostalAddress", "addressCountry":"Mexico" }
+    },
+    {
+      "@type":"Person",
+      "@id":"http://example.com/person1",
+      "name":"Person with existing URI",
+      "address": { "@id":"http://example.com/myaddress", "@type":"PostalAddress", "addressCountry":"Canada" }
+    }
+  ]
+}
