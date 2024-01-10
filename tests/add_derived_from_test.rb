@@ -15,6 +15,6 @@ class SparqlTest < Minitest::Test
     # puts "before: #{graph.dump(:jsonld)}"
     graph.query(@sparql)
     # puts "after: #{graph.dump(:jsonld)}"
-    assert_equal 2,graph.query([nil, RDF::Vocab::PROV.wasDerivedFrom, RDF::Literal(@derived_from_url)]).count
+    assert_equal 1,graph.query([nil, RDF::Vocab::PROV.wasDerivedFrom, RDF::URI(@derived_from_url)]).count
   end
 end
