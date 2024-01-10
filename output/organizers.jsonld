@@ -57,42 +57,6 @@
     ]
   },
   {
-    "@id": "_:g457320",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Adäka Cultural Society"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://www.adakafestival.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/adaka.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g457340"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g457360"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
     "@id": "_:g457340",
     "@type": [
       "http://schema.org/PostalAddress"
@@ -186,47 +150,6 @@
     ]
   },
   {
-    "@id": "_:g460540",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Article 11"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://article11.ca"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/cropped-DW-2-1-e1516681221659.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g460560"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q114980915"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g460580"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
     "@id": "_:g460560",
     "@type": [
       "http://schema.org/PostalAddress"
@@ -306,57 +229,6 @@
     "http://schema.org/isPartOf": [
       {
         "@id": "https://ipaa.ca/indigenous-artists/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463820",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Beneath the Surface Society"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.imaginationcollective.net/beneath-the-surface-society"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/btss.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g463840"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g463860"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "BTSS"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115009257"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g463880"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
       }
     ]
   },
@@ -456,62 +328,6 @@
     "http://schema.org/isPartOf": [
       {
         "@id": "https://ipaa.ca/indigenous-artists/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466440",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Camille"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://icca.art/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/avatars/134/ICCA-mark-colour-03.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g466460"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g466480"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "ICCA"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g466500"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q16960132"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g466520"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
       }
     ]
   },
@@ -637,65 +453,6 @@
     "http://schema.org/isPartOf": [
       {
         "@id": "https://ipaa.ca/indigenous-artists/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469860",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Debajehmujig Theatre Group"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://www.debaj.ca"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/newdebajlogo2018.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g469880"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g469900"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Debajehmujig Storytellers"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q5243817"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g469920"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ],
-    "http://schema.org/knowsAbout": [
-      {
-        "@id": "_:g469940"
-      },
-      {
-        "@id": "_:g469960"
       }
     ]
   },
@@ -841,47 +598,6 @@
     ]
   },
   {
-    "@id": "_:g472520",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dreamspeakers Festival Society"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://dreamspeakers.org/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/DS-Single-Logo.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g472540"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115009951"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g472560"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
     "@id": "_:g472540",
     "@type": [
       "http://schema.org/PostalAddress"
@@ -975,48 +691,7 @@
     ]
   },
   {
-    "@id": "_:g476200",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "En'owkin Centre"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.enowkincentre.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/EC-LOGO-2020-JPEG.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g476220"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q30293372"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g476240"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476220",
+    "@id": "_:g476240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1047,7 +722,7 @@
     ]
   },
   {
-    "@id": "_:g476240",
+    "@id": "_:g476260",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1109,48 +784,7 @@
     ]
   },
   {
-    "@id": "_:g477040",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "fhshs"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Screenshot-2023-10-17-at-9.25.52-AM.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g477060"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g477080"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g477100"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ],
-    "http://schema.org/knowsAbout": [
-      {
-        "@id": "_:g477120"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477060",
+    "@id": "_:g477080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1176,7 +810,7 @@
     ]
   },
   {
-    "@id": "_:g477080",
+    "@id": "_:g477100",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -1192,7 +826,7 @@
     ]
   },
   {
-    "@id": "_:g477100",
+    "@id": "_:g477120",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1213,7 +847,7 @@
     ]
   },
   {
-    "@id": "_:g477120",
+    "@id": "_:g477140",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -1270,48 +904,7 @@
     ]
   },
   {
-    "@id": "_:g480480",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "First Light"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://firstlightnl.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/avatars/65/firstlightlogoipaa.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g480500"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115012692"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g480520"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480500",
+    "@id": "_:g480520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1342,7 +935,7 @@
     ]
   },
   {
-    "@id": "_:g480520",
+    "@id": "_:g480540",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1404,56 +997,7 @@
     ]
   },
   {
-    "@id": "_:g481320",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Full Circle: First Nations Performance"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://fullcircle.ca"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/fullcircle_blackred.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g481340"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g481360"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K14-81"
-      },
-      {
-        "@id": "http://www.wikidata.org/entity/Q112510114"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g481380"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g481340",
+    "@id": "_:g481360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1484,7 +1028,7 @@
     ]
   },
   {
-    "@id": "_:g481360",
+    "@id": "_:g481380",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -1500,7 +1044,7 @@
     ]
   },
   {
-    "@id": "_:g481380",
+    "@id": "_:g481400",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1558,57 +1102,6 @@
     "http://schema.org/isPartOf": [
       {
         "@id": "https://ipaa.ca/indigenous-artists/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g484880",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Gordon Tootoosis Nīkānīwin Theatre"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.gtnt.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/GTNT_logos_GTNT-Colour-on-black-Acronym-Large.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g484900"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g484920"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g484940"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115013247"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g484960"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
       }
     ]
   },
@@ -1751,47 +1244,6 @@
     ]
   },
   {
-    "@id": "_:g489380",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Inclusive Voices Incorporated"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.inclusivevoices.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IV_LOCKUP_VERT_COLOR.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g489400"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g489420"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g489440"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
     "@id": "_:g489400",
     "@type": [
       "http://schema.org/PostalAddress"
@@ -1908,63 +1360,6 @@
   {
     "@id": "_:g490240",
     "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "IndigenEd"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://indigened.ca"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IndigenEd-Logo1.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g490260"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g490280"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115017299"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g490300"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ],
-    "http://schema.org/knowsAbout": [
-      {
-        "@id": "_:g490320"
-      },
-      {
-        "@id": "_:g490340"
-      },
-      {
-        "@id": "_:g490360"
-      }
-    ]
-  },
-  {
-    "@id": "_:g490260",
-    "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/addressCountry": [
@@ -1994,7 +1389,7 @@
     ]
   },
   {
-    "@id": "_:g490280",
+    "@id": "_:g490260",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2010,7 +1405,7 @@
     ]
   },
   {
-    "@id": "_:g490300",
+    "@id": "_:g490280",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2031,7 +1426,7 @@
     ]
   },
   {
-    "@id": "_:g490320",
+    "@id": "_:g490300",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2047,7 +1442,7 @@
     ]
   },
   {
-    "@id": "_:g490340",
+    "@id": "_:g490320",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2063,7 +1458,7 @@
     ]
   },
   {
-    "@id": "_:g490360",
+    "@id": "_:g490340",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2120,63 +1515,7 @@
     ]
   },
   {
-    "@id": "_:g494120",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Ingaged Creative Productions"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.ingaged.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Ingaged-Black-Logo-PNG.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g494140"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g494160"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Ingaged"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g494180"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115017642"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g494200"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g494140",
+    "@id": "_:g494100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2207,7 +1546,7 @@
     ]
   },
   {
-    "@id": "_:g494160",
+    "@id": "_:g494120",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2223,7 +1562,7 @@
     ]
   },
   {
-    "@id": "_:g494180",
+    "@id": "_:g494140",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -2239,7 +1578,7 @@
     ]
   },
   {
-    "@id": "_:g494200",
+    "@id": "_:g494160",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2301,72 +1640,7 @@
     ]
   },
   {
-    "@id": "_:g496280",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Making Treaty 7 Cultural Society"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.makingtreaty7.com"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/avatars/290/2.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g496300"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g496320"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "MT7"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q60761258"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g496340"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ],
-    "http://schema.org/knowsAbout": [
-      {
-        "@id": "_:g496360"
-      },
-      {
-        "@id": "_:g496380"
-      },
-      {
-        "@id": "_:g496400"
-      },
-      {
-        "@id": "_:g496420"
-      }
-    ]
-  },
-  {
-    "@id": "_:g496300",
+    "@id": "_:g496260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2397,7 +1671,7 @@
     ]
   },
   {
-    "@id": "_:g496320",
+    "@id": "_:g496280",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2413,7 +1687,7 @@
     ]
   },
   {
-    "@id": "_:g496340",
+    "@id": "_:g496300",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2434,7 +1708,7 @@
     ]
   },
   {
-    "@id": "_:g496360",
+    "@id": "_:g496320",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2450,7 +1724,7 @@
     ]
   },
   {
-    "@id": "_:g496380",
+    "@id": "_:g496340",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2466,7 +1740,7 @@
     ]
   },
   {
-    "@id": "_:g496400",
+    "@id": "_:g496360",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2482,7 +1756,7 @@
     ]
   },
   {
-    "@id": "_:g496420",
+    "@id": "_:g496380",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2539,61 +1813,7 @@
     ]
   },
   {
-    "@id": "_:g500060",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "NAC Indigenous Theatre"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://nac-cna.ca/en/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/NAC_4C_Tag.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g500080"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g500100"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q105878246"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g500120"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ],
-    "http://schema.org/knowsAbout": [
-      {
-        "@id": "_:g500140"
-      },
-      {
-        "@id": "_:g500160"
-      }
-    ]
-  },
-  {
-    "@id": "_:g500080",
+    "@id": "_:g500020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2624,7 +1844,7 @@
     ]
   },
   {
-    "@id": "_:g500100",
+    "@id": "_:g500040",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2640,7 +1860,7 @@
     ]
   },
   {
-    "@id": "_:g500120",
+    "@id": "_:g500060",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2661,7 +1881,7 @@
     ]
   },
   {
-    "@id": "_:g500140",
+    "@id": "_:g500080",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2677,7 +1897,7 @@
     ]
   },
   {
-    "@id": "_:g500160",
+    "@id": "_:g500100",
     "@type": [
       "http://schema.org/Specialty"
     ],
@@ -2734,48 +1954,7 @@
     ]
   },
   {
-    "@id": "_:g503220",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Native Earth Performing Arts"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.nativeearth.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/native-earth-yellow-gold-logo_transparent-BIGx-txt-2.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g503240"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q6980009"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g503260"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g503240",
+    "@id": "_:g503180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2806,7 +1985,7 @@
     ]
   },
   {
-    "@id": "_:g503260",
+    "@id": "_:g503200",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2868,63 +2047,7 @@
     ]
   },
   {
-    "@id": "_:g506900",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Nogojiwanong Indigenous Fringe Festival"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://indigenousfringefest.weebly.com/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/avatars/49/04E2C047-F9C1-4088-8835-F8D94EA366F3.jpeg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g506920"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g506940"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "NIFF"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g506960"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115018455"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g506980"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g506920",
+    "@id": "_:g506840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2955,7 +2078,7 @@
     ]
   },
   {
-    "@id": "_:g506940",
+    "@id": "_:g506860",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -2971,7 +2094,7 @@
     ]
   },
   {
-    "@id": "_:g506960",
+    "@id": "_:g506880",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -2987,7 +2110,7 @@
     ]
   },
   {
-    "@id": "_:g506980",
+    "@id": "_:g506900",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3049,48 +2172,7 @@
     ]
   },
   {
-    "@id": "_:g510140",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Raven Spirit Dance Society"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://www.ravenspiritdance.com"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/RSD-Logo-2.jpeg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g510160"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q107281881"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g510180"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g510160",
+    "@id": "_:g510080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3121,7 +2203,7 @@
     ]
   },
   {
-    "@id": "_:g510180",
+    "@id": "_:g510100",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3183,56 +2265,7 @@
     ]
   },
   {
-    "@id": "_:g513820",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Red Sky Performance"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.redskyperformance.com/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Red-Sky-PERFORMANCE-logo-No-AD-HR.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g513840"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g513860"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-179"
-      },
-      {
-        "@id": "http://www.wikidata.org/entity/Q7305049"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g513880"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g513840",
+    "@id": "_:g513740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3263,7 +2296,7 @@
     ]
   },
   {
-    "@id": "_:g513860",
+    "@id": "_:g513760",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -3279,7 +2312,7 @@
     ]
   },
   {
-    "@id": "_:g513880",
+    "@id": "_:g513780",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3341,48 +2374,7 @@
     ]
   },
   {
-    "@id": "_:g517300",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Savage Society"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.savagesociety.ca"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g517320"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g517340"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115036746"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g517360"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g517320",
+    "@id": "_:g517200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3413,7 +2405,7 @@
     ]
   },
   {
-    "@id": "_:g517340",
+    "@id": "_:g517220",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -3429,7 +2421,7 @@
     ]
   },
   {
-    "@id": "_:g517360",
+    "@id": "_:g517240",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3491,53 +2483,7 @@
     ]
   },
   {
-    "@id": "_:g520840",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Urban Ink"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://urbanink.ca/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://urbanink.ca/wp-content/uploads/2020/09/UI-logo.png"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g520860"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g520880"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g520900"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g520920"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g520860",
+    "@id": "_:g520760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3568,7 +2514,7 @@
     ]
   },
   {
-    "@id": "_:g520880",
+    "@id": "_:g520780",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -3584,7 +2530,7 @@
     ]
   },
   {
-    "@id": "_:g520900",
+    "@id": "_:g520800",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -3605,7 +2551,7 @@
     ]
   },
   {
-    "@id": "_:g520920",
+    "@id": "_:g520820",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3667,58 +2613,7 @@
     ]
   },
   {
-    "@id": "_:g524580",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "V'ni Dansi"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://www.vnidansi.ca"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://ipaa.ca/wp-content/uploads/avatars/244/mady.jpg"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g524600"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:g524620"
-      }
-    ],
-    "http://schema.org/contactPoint": [
-      {
-        "@id": "_:g524640"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q115037366"
-      }
-    ],
-    "http://schema.org/memberOf": [
-      {
-        "@id": "_:g524660"
-      }
-    ],
-    "http://schema.org/isicV4": [
-      {
-        "@value": "R9000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g524600",
+    "@id": "_:g524500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3749,7 +2644,7 @@
     ]
   },
   {
-    "@id": "_:g524620",
+    "@id": "_:g524520",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -3765,7 +2660,7 @@
     ]
   },
   {
-    "@id": "_:g524640",
+    "@id": "_:g524540",
     "@type": [
       "http://schema.org/ContactPoint"
     ],
@@ -3786,7 +2681,7 @@
     ]
   },
   {
-    "@id": "_:g524660",
+    "@id": "_:g524560",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3803,6 +2698,1111 @@
     "http://schema.org/sameAs": [
       {
         "@id": "http://www.wikidata.org/entity/Q110938829"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:37794f65-8df6-4154-beac-e543549f8830",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Adäka Cultural Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.adakafestival.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/adaka.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g457340"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g457360"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:86ee980d-9660-462e-a36a-6aff78546612",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Article 11"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://article11.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/cropped-DW-2-1-e1516681221659.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460560"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q114980915"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g460580"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:36e9b374-75cc-40a1-be7c-a641efb829bb",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Beneath the Surface Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.imaginationcollective.net/beneath-the-surface-society"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/btss.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g463840"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g463860"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "BTSS"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115009257"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g463880"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:62173b0c-9f29-45e7-af85-3efa75892c2f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Camille"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://icca.art/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/134/ICCA-mark-colour-03.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g466460"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g466480"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "ICCA"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g466500"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q16960132"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g466520"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:84e06b30-37de-48d2-a6e5-027d36a57d4a",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Debajehmujig Theatre Group"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.debaj.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/newdebajlogo2018.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g469880"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g469900"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Debajehmujig Storytellers"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q5243817"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g469920"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g469940"
+      },
+      {
+        "@id": "_:g469960"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:e3199ae0-a933-4f2d-b797-d0703ea22a85",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dreamspeakers Festival Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://dreamspeakers.org/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/DS-Single-Logo.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g472540"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115009951"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g472560"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:4c338584-fef3-4d0d-b0e0-0ab403929d33",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "En'owkin Centre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.enowkincentre.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/EC-LOGO-2020-JPEG.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g476240"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q30293372"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g476260"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:191e8af7-a4d8-43dc-b8b2-a5fe0275500e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "fhshs"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Screenshot-2023-10-17-at-9.25.52-AM.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g477080"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g477100"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g477120"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g477140"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:9cc15e80-d2af-4a25-bfe8-43d502662ce5",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "First Light"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://firstlightnl.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/65/firstlightlogoipaa.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g480520"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115012692"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g480540"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:08ce0775-7f4d-4a69-bfcd-abfcb62f1d79",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Full Circle: First Nations Performance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://fullcircle.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/fullcircle_blackred.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g481360"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g481380"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-81"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q112510114"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g481400"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:99003b59-1d25-47f8-b954-c31ef0282e00",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gordon Tootoosis Nīkānīwin Theatre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.gtnt.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/GTNT_logos_GTNT-Colour-on-black-Acronym-Large.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g484900"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g484920"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g484940"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115013247"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g484960"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:ab09ff4d-1b32-41e3-8c01-8a6a43732055",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Inclusive Voices Incorporated"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.inclusivevoices.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IV_LOCKUP_VERT_COLOR.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g489400"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g489420"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g489440"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:4ef451d3-618f-4d4e-993b-8f83c46d2fd8",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "IndigenEd"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://indigened.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/IndigenEd-Logo1.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g490240"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g490260"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115017299"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g490280"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g490300"
+      },
+      {
+        "@id": "_:g490320"
+      },
+      {
+        "@id": "_:g490340"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:b2e40a57-c86b-4a33-a911-6456e0d7c2da",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ingaged Creative Productions"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ingaged.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Ingaged-Black-Logo-PNG.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g494100"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g494120"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Ingaged"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g494140"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115017642"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g494160"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:6821958c-1bfe-4b93-8eae-67d42f24f5ec",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Making Treaty 7 Cultural Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.makingtreaty7.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/290/2.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g496260"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g496280"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "MT7"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q60761258"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g496300"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g496320"
+      },
+      {
+        "@id": "_:g496340"
+      },
+      {
+        "@id": "_:g496360"
+      },
+      {
+        "@id": "_:g496380"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:289c0dd7-428b-48ac-a889-25a5542691da",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "NAC Indigenous Theatre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://nac-cna.ca/en/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/NAC_4C_Tag.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g500020"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g500040"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q105878246"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g500060"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ],
+    "http://schema.org/knowsAbout": [
+      {
+        "@id": "_:g500080"
+      },
+      {
+        "@id": "_:g500100"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:e4996515-2455-497e-ab36-25e4fd51a63a",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Native Earth Performing Arts"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.nativeearth.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/native-earth-yellow-gold-logo_transparent-BIGx-txt-2.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g503180"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q6980009"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g503200"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:c0ff33ac-7779-48af-bc33-54a381f5056c",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Nogojiwanong Indigenous Fringe Festival"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://indigenousfringefest.weebly.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/49/04E2C047-F9C1-4088-8835-F8D94EA366F3.jpeg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g506840"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g506860"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "NIFF"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g506880"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115018455"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g506900"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:07229779-bd0f-432a-a0e6-739d61cb4f1d",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Raven Spirit Dance Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.ravenspiritdance.com"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/RSD-Logo-2.jpeg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g510080"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q107281881"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g510100"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:3b3d36c1-9406-49b1-8a5c-c64e1ce7064f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Red Sky Performance"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.redskyperformance.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/ninja-forms/3/Red-Sky-PERFORMANCE-logo-No-AD-HR.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g513740"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g513760"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-179"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7305049"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g513780"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:26f448d1-c583-4768-9604-d748b0b1ad7e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Savage Society"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.savagesociety.ca"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g517200"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g517220"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115036746"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g517240"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:7f7dbb94-e7da-4587-9cc4-4f77a934e32e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Urban Ink"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://urbanink.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://urbanink.ca/wp-content/uploads/2020/09/UI-logo.png"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520760"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g520780"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g520800"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g520820"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
+      }
+    ]
+  },
+  {
+    "@id": "urn:uuid:98d701a6-ea95-4079-9207-34a4ec51685b",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "V'ni Dansi"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://www.vnidansi.ca"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://ipaa.ca/wp-content/uploads/avatars/244/mady.jpg"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g524500"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:g524520"
+      }
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:g524540"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q115037366"
+      }
+    ],
+    "http://schema.org/memberOf": [
+      {
+        "@id": "_:g524560"
+      }
+    ],
+    "http://schema.org/isicV4": [
+      {
+        "@value": "R9000"
       }
     ]
   }
