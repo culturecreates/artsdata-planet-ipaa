@@ -16,6 +16,8 @@ href_tag = ARGV[5]
 max_retries, retry_count = 3, 0
 page_number = is_paginated == 'true' ? 1 : nil
 graph = RDF::Graph.new
+add_url_sparql = "./sparqls/add_derived_from.sparql"
+add_url_sparql_file = File.read(add_url_sparql)
 
 loop do
   url = "#{page_url}#{page_number}"
@@ -43,12 +45,15 @@ loop do
     break
   end
 
-  entity_urls.each do |entity|
+  entity_urls.each do |entity_url|
     begin
-      entity = entity.gsub(' ', '+')
-      graph << RDF::Graph.load(entity) 
+      entity_url = entity_url.gsub(' ', '+')
+      loaded_graph = RDF::Graph.load(entity_url)
+      sparql_file_with_url = add_url_sparql_file.gsub("subject_url", entity_url)
+      loaded_graph.query(SPARQL.parse(sparql_file_with_url, update: true))
+      graph << loaded_graph
     rescue StandardError => e
-      puts "Error loading RDF from #{entity}: #{e.message}"
+      puts "Error loading RDF from #{entity_url}: #{e.message}"
       break
     end
   end
