@@ -25,6 +25,6 @@ class SparqlTest < Minitest::Test
     # puts "before: #{graph.dump(:jsonld)}"
     graph.query(@sparql)
     # puts "after: #{graph.dump(:jsonld)}"
-    assert_equal nil,graph.query([RDF::URI("http://example.com/test_address"), RDF::Vocab::PROV.wasDerivedFrom, RDF::URI(@derived_from_url)])
+    assert_nil graph.query([RDF::URI("http://example.com/test_address"), RDF::Vocab::PROV.wasDerivedFrom, RDF::URI(@derived_from_url)])
   end
 end
