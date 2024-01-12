@@ -1,4 +1,4 @@
-name: Fetch Ipaa Artists
+name: Fetch IPAA artists and organizations using sitemap
 
 on:
   workflow_dispatch:
