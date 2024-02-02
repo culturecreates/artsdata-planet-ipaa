@@ -15,6 +15,7 @@ jobs:
       is_paginated: false
       artifact_name: ipaa-artist
       base_url: https://ipaa.ca/ 
+      href: data-href
     secrets:
       publisher_uri: ${{ secrets.PUBLISHER_URI_GREGORY }}
 
