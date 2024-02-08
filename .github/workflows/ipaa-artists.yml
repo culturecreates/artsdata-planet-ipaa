@@ -1,21 +1,18 @@
-name: Fetch IPAA artists
+name: Push IPAA Artists
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 1 */6 *'
-      
+            
 jobs:
-  call-artsdata-push-workflow:
-    uses: culturecreates/artsdata-orion/.github/workflows/fetch-and-push-to-artsdata.yml@main
-    with: 
-      page_url: https://ipaa.ca/indigenous-artists/
-      entity_identifier: "div.member-card"
-      file_name: ipaa-artists.jsonld
-      is_paginated: false
-      artifact_name: ipaa-artist
-      base_url: https://ipaa.ca/ 
-    secrets:
-      publisher_uri: ${{ secrets.PUBLISHER_URI_GREGORY }}
-
-    
+  call_reusable_workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@v1.0.0
+        with:
+          artifact_name: ipaa-artists
+          page_url: https://ipaa.ca/indigenous-artists/
+          publisher_uri: "${{ secrets.PUBLISHER_URI_GREGORY }}"
+          download_uri: "https://raw.githubusercontent.com/culturecreates/artsdata-planet-ipaa/main/output/artists.jsonld"
+          download_file: artists.jsonld
+          group: "artsdata-planet-ipaa"
