@@ -17,6 +17,7 @@ WHERE {
       FILTER NOT EXISTS { ?other_s ?other_p ?blank_node }
     }
   }
-  bind(URI(CONCAT("https://ipaa.ca/resource/",STRUUID())) as ?uuid_uri)
+  ?blank_node a ?type .
+  bind(URI(CONCAT("subject_url","#",STRAFTER(str(?type),"schema.org/"))) as ?uuid_uri)
   ?blank_node ?p ?o 
 }

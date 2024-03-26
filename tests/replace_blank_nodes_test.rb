@@ -6,7 +6,8 @@ class SparqlTest < Minitest::Test
   # Load and parse sparql
   def setup
     sparql_file = "../sparqls/replace_blank_nodes.sparql"
-    @sparql = SPARQL.parse(File.read(sparql_file), update: true)
+    derived_from_url = "http://example.com/person1"
+    @sparql = SPARQL.parse(File.read(sparql_file).gsub("subject_url",derived_from_url), update: true)
   end
 
   # check that the blank node is replaced
