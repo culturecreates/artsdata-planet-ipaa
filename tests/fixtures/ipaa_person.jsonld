@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "ItemPage",
+    "@id": "https://ipaa.ca/profile/indigenous-artist/Martin+Desjarlais",
+    "datePublished": "2020-04-01T17:18:46",
+    "lastReviewed": "2023-02-23T05:00:00",
+    "inLanguage": "en",
+    "primaryImageOfPage": "https://ipaa.ca/wp-content/uploads/ninja-forms/2/MD.JPG",
+    "isPartOf": {
+      "@type": "CreativeWork",
+      "name": "Indigenous Performing Arts Alliance Membership Directory",
+      "@id": "https://ipaa.ca/indigenous-artists/",
+      "sameAs": "http://www.wikidata.org/entity/Q113164737"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Martin Desjarlais",
+    "givenName": "Martin",
+    "familyName": "Desjarlais",
+    "image": "https://ipaa.ca/wp-content/uploads/ninja-forms/2/MD.JPG",
+    "url": "https://www.indigenousmusic.ca/martindesjarlais",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "CA",
+      "addressRegion": "MB",
+      "addressLocality": "Winnipeg"
+    },
+    "additionalType": "http://www.wikidata.org/entity/Q262457",
+    "http://www.wikidata.org/entity/P106": {
+      "@type": "http://www.wikidata.org/entity/Q12737077",
+      "@id": "http://www.wikidata.org/entity/Q483501",
+      "name": "Artist"
+    },
+    "sameAs": [
+      "https://www.facebook.com/MartinDesjarlaisTalent/",
+      "http://kg.artsdata.ca/resource/K3-61",
+      "http://www.wikidata.org/entity/Q113502226"
+    ],
+    "memberOf": {
+      "@type": "Organization",
+      "name": "Indigenous Performing Arts Alliance",
+      "url": "https://ipaa.ca/",
+      "sameAs": "http://www.wikidata.org/entity/Q110938829"
+    },
+    "isicV4": "R9000",
+    "knowsAbout": [
+      {
+        "@type": "Specialty",
+        "name": "Music",
+        "sameAs": "http://www.wikidata.org/entity/Q638"
+      }
+    ]
+  }
+]

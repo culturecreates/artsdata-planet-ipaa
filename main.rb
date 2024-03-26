@@ -16,8 +16,8 @@ href_tag = ARGV[5]
 max_retries, retry_count = 3, 0
 page_number = is_paginated == 'true' ? 1 : nil
 graph = RDF::Graph.new
-add_url_sparql = "./sparqls/add_derived_from.sparql"
-add_url_sparql_file = File.read(add_url_sparql)
+add_url_sparql_file = File.read("./sparqls/add_derived_from.sparql")
+replace_blank_nodes_sparql_file = File.read("./sparqls/replace_blank_nodes.sparql")
 
 loop do
   url = "#{page_url}#{page_number}"
@@ -49,8 +49,13 @@ loop do
     begin
       entity_url = entity_url.gsub(' ', '+')
       loaded_graph = RDF::Graph.load(entity_url)
-      sparql_file_with_url = add_url_sparql_file.gsub("subject_url", entity_url)
-      loaded_graph.query(SPARQL.parse(sparql_file_with_url, update: true))
+      # add derivedFrom
+      sparql = SPARQL.parse(add_url_sparql_file.gsub("subject_url", entity_url), update: true)
+      loaded_graph.query(sparql)
+      # replace blank nodes
+      sparql = SPARQL.parse(replace_blank_nodes_sparql_file.gsub("subject_url", entity_url), update: true)
+      loaded_graph.query(sparql)
+
       graph << loaded_graph
     rescue StandardError => e
       puts "Error loading RDF from #{entity_url}: #{e.message}"
@@ -64,9 +69,6 @@ loop do
   end
   retry_count = 0
 end
-
-sparql_file = "./sparqls/replace_blank_nodes.sparql"
-graph.query(SPARQL.parse(File.read(sparql_file), update: true))
 
 File.open(file_name, 'w') do |file|
   file.puts(graph.dump(:jsonld))
