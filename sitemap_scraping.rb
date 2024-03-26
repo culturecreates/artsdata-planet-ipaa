@@ -21,7 +21,7 @@ entity_urls = sitemap_xml.xpath('//xmlns:url/xmlns:loc', ns).map(&:text)
 
 entity_urls.each do |entity_url|
   begin
-    entity_url = entity_url.gsub(' ', '+')
+    entity_url = entity_url.gsub(' ', '_') # TODO: clarify choice of replacement, otherwise %20 sometimes flips with +.
     loaded_graph = RDF::Graph.load(entity_url)
     # add derivedFrom
     sparql = SPARQL.parse(add_url_sparql_file.gsub("subject_url", entity_url), update: true)
