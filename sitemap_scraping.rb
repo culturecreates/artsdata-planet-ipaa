@@ -26,7 +26,8 @@ entity_urls.each do |entity_url|
     # sparql = SPARQL.parse(add_url_sparql_file.gsub("subject_url", entity_url.gsub(' ', '+')), update: true)
     # loaded_graph.query(sparql)
     # replace blank nodes
-    sparql = SPARQL.parse(replace_blank_nodes_sparql_file.gsub("subject_url", entity_url.gsub(' ', '_')), update: true)
+    uri = entity_url.gsub('%20', '_')
+    sparql = SPARQL.parse(replace_blank_nodes_sparql_file.gsub("subject_url",uri ), update: true)
     loaded_graph.query(sparql)
 
     graph << loaded_graph
