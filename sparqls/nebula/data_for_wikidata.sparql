@@ -10,51 +10,51 @@ PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX bd: <http://www.bigdata.com/rdf#>
 select * where {
     {
-        select ?organization ?name(group_concat(DISTINCT ?knowsAboutWdid) as ?knowsAbout) ?wasDerivedFrom  ?aduri  ?country  ?addressLocality ?postalCode ?bn   ?wduri where {
+        select ?entity ?name  ?type (group_concat(DISTINCT ?knowsAboutWdid) as ?knowsAbout) ?wasDerivedFrom  ?aduri  ?country  ?addressLocality ?postalCode ?bn   ?wduri where {
             graph <http://kg.artsdata.ca/culture-creates/artsdata-planet-ipaa/ipaa-entities> {
                 values ?type {schema:Organization schema:Person} 
-                ?organization a ?type ;
+                ?entity a ?type ;
                    prov:wasDerivedFrom ?wasDerivedFrom ;
                    schema:name ?name .
                 OPTIONAL {
-                    ?organization schema:knowsAbout/schema:sameAs ?knowsAboutWdid .
+                    ?entity schema:knowsAbout/schema:sameAs ?knowsAboutWdid .
                 }
                 OPTIONAL {
-                    ?organization schema:address/schema:addressCountry ?country .
+                    ?entity schema:address/schema:addressCountry ?country .
                 }
                 OPTIONAL {
-                    ?organization schema:address/schema:addressLocality ?addressLocality .
+                    ?entity schema:address/schema:addressLocality ?addressLocality .
                 }
                 OPTIONAL {
-                    ?organization schema:address/schema:postalCode ?postalCode .
+                    ?entity schema:address/schema:postalCode ?postalCode .
                 }
                 OPTIONAL {
-                    ?organization wdt:P8880 ?bn .
+                    ?entity wdt:P8880 ?bn .
                 }
             }
             OPTIONAL {
-                ?organization  schema:sameAs ?aduri_indirect .
+                ?entity  schema:sameAs ?aduri_indirect .
                 filter(strstarts(str(?aduri_indirect),"http://kg.artsdata.ca/resource/K"))
             }
             OPTIONAL {
-                ?aduri_direct  schema:sameAs ?organization  .
+                ?aduri_direct  schema:sameAs ?entity  .
                 filter(strstarts(str(?aduri_direct),"http://kg.artsdata.ca/resource/K"))
             }
             bind(coalesce(?aduri_direct, ?aduri_indirect)   as ?aduri)
 
             OPTIONAL {
-                ?organization  schema:sameAs ?wduri_indirect .
+                ?entity  schema:sameAs ?wduri_indirect .
                 filter(strstarts(str(?wduri_indirect),"http://www.wikidata.org/entity/Q"))
             }
             OPTIONAL {
-                ?organization   schema:sameAs ?aduri_direct  .
+                ?entity   schema:sameAs ?aduri_direct  .
                 filter(strstarts(str(?aduri_direct),"http://kg.artsdata.ca/resource/K"))
                 ?aduri_direct   schema:sameAs ?wduri_direct  .
                 filter(strstarts(str(?wduri_direct),"http://www.wikidata.org/entity/Q"))
             }
             bind(coalesce(?wduri_direct, ?wduri_indirect)   as ?wduri) 
             filter(bound(?wduri))
-        } group by ?organization ?name ?wasDerivedFrom ?aduri ?country ?addressLocality ?postalCode ?bn  ?wduri
+        } group by ?entity ?name  ?type ?wasDerivedFrom ?aduri ?country ?addressLocality ?postalCode ?bn  ?wduri
     }
     OPTIONAL {
         SERVICE <https://query.wikidata.org/sparql> {
