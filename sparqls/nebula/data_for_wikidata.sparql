@@ -40,12 +40,13 @@ select * where {
                 filter(strstarts(str(?aduri_direct),"http://kg.artsdata.ca/resource/K"))
             }
             bind(coalesce(?aduri_direct, ?aduri_indirect)   as ?aduri)
+
             OPTIONAL {
-                ?organization  schema:sameAs+ ?wduri_indirect .
+                ?organization  schema:sameAs ?wduri_indirect .
                 filter(strstarts(str(?wduri_indirect),"http://www.wikidata.org/entity/Q"))
             }
             OPTIONAL {
-                ?wduri_direct  schema:sameAs+ ?organization  .
+                ?wduri_direct  schema:sameAs ?organization  .
                 filter(strstarts(str(?wduri_direct),"http://www.wikidata.org/entity/Q"))
             }
             bind(coalesce(?wduri_direct, ?wduri_indirect)   as ?wduri) 
