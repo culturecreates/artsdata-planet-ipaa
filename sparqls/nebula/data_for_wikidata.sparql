@@ -12,7 +12,8 @@ select * where {
     {
         select ?organization ?name(group_concat(DISTINCT ?knowsAboutWdid) as ?knowsAbout) ?wasDerivedFrom  ?aduri  ?country  ?addressLocality ?postalCode ?bn   ?wduri where {
             graph <http://kg.artsdata.ca/culture-creates/artsdata-planet-ipaa/ipaa-entities> {
-                ?organization a schema:Organization ;
+                values ?type {schema:Organization schema:Person} 
+                ?organization a ?type ;
                    prov:wasDerivedFrom ?wasDerivedFrom ;
                    schema:name ?name .
                 OPTIONAL {
