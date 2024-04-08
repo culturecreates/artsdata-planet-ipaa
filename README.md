@@ -7,3 +7,5 @@ Manually trigger the [workflow](https://github.com/culturecreates/artsdata-plane
 
 View IPAA Entities in Artsdata.ca with the [Nebula viewer](http://kg.artsdata.ca/query/show?sparql=https%3A%2F%2Fraw.githubusercontent.com%2Fculturecreates%2Fartsdata-planet-ipaa%2Fmain%2Fsparqls%2Fnebula%2Fipaa_entities.sparql&title=IPAA+People+and+Organizations) using the [sparql](https://raw.githubusercontent.com/culturecreates/artsdata-planet-ipaa/main/sparqls/nebula/ipaa_entites.sparql) in this repo.
 
+Data for Wikidata upload is [here](http://kg.artsdata.ca/query/show?sparql=https%3A%2F%2Fraw.githubusercontent.com%2Fculturecreates%2Fartsdata-planet-ipaa%2Fmain%2Fsparqls%2Fnebula%2Fdata_for_wikidata.sparql&title=IPAA+People+and+Organizations) using the [sparql](https://raw.githubusercontent.com/culturecreates/artsdata-planet-ipaa/main/sparqls/nebula/ipaa_entites.sparql).
+
