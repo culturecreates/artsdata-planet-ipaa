@@ -46,7 +46,9 @@ select * where {
                 filter(strstarts(str(?wduri_indirect),"http://www.wikidata.org/entity/Q"))
             }
             OPTIONAL {
-                ?wduri_direct  schema:sameAs ?organization  .
+                ?organization   schema:sameAs ?aduri_direct  .
+                filter(strstarts(str(?aduri_direct),"http://kg.artsdata.ca/resource/K"))
+                ?aduri_direct   schema:sameAs ?wduri_direct  .
                 filter(strstarts(str(?wduri_direct),"http://www.wikidata.org/entity/Q"))
             }
             bind(coalesce(?wduri_direct, ?wduri_indirect)   as ?wduri) 
