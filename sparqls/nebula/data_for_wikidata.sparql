@@ -58,7 +58,7 @@ select * where {
     }
     OPTIONAL {
         SERVICE <https://query.wikidata.org/sparql> {
-            SELECT ?wduri ?wduriLabel ?wdLatestStartDate ?retrievedDate ?referenceUrl ?descriptionEn ?descriptionFr WHERE {
+            SELECT ?wduri ?wduriLabel ?wdLatestStartDate ?wdPointInTime ?retrievedDate ?referenceUrl ?descriptionEn ?descriptionFr WHERE {
                 ?wduri wdt:P463 wd:Q110938829;
                        p:P463 ?statement.
                 ?statement ps:P463 wd:Q110938829.
@@ -82,6 +82,9 @@ select * where {
                 }
                 OPTIONAL {
                     ?statement pq:P8555 ?wdLatestStartDate.
+                }
+                OPTIONAL {
+                    ?statement pq:P585 ?wdPointInTime .
                 }
                 SERVICE wikibase:label {
                     bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
