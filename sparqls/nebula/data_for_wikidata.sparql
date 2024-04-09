@@ -10,12 +10,18 @@ PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX bd: <http://www.bigdata.com/rdf#>
 select * where {
     {
-        select ?entity ?name  ?type (group_concat(DISTINCT ?knowsAboutWdid) as ?knowsAbout) ?wasDerivedFrom  ?aduri  ?country  ?addressLocality ?postalCode ?bn   ?wduri where {
+        select  ?entity   ?type (group_concat(DISTINCT ?knowsAboutWdid) as ?knowsAbout) ?wasDerivedFrom    ?country  ?addressLocality ?postalCode ?bn  ?wduri ?aduri  ?name
+        where {
             graph <http://kg.artsdata.ca/culture-creates/artsdata-planet-ipaa/ipaa-entities> {
-                values ?type {schema:Organization schema:Person} 
+                values ?type {
+                    schema:Organization schema:Person
+                } 
                 ?entity a ?type ;
-                   prov:wasDerivedFrom ?wasDerivedFrom ;
-                   schema:name ?name .
+                        schema:name ?name .
+                filter (!isBlank(?entity))
+                OPTIONAL {
+                    ?entity  prov:wasDerivedFrom ?wasDerivedFrom ;
+                             }
                 OPTIONAL {
                     ?entity schema:knowsAbout/schema:sameAs ?knowsAboutWdid .
                 }
@@ -41,7 +47,6 @@ select * where {
                 filter(strstarts(str(?aduri_direct),"http://kg.artsdata.ca/resource/K"))
             }
             bind(coalesce(?aduri_direct, ?aduri_indirect)   as ?aduri)
-
             OPTIONAL {
                 ?entity  schema:sameAs ?wduri_indirect .
                 filter(strstarts(str(?wduri_indirect),"http://www.wikidata.org/entity/Q"))
@@ -52,8 +57,14 @@ select * where {
                 ?aduri_direct   schema:sameAs ?wduri_direct  .
                 filter(strstarts(str(?wduri_direct),"http://www.wikidata.org/entity/Q"))
             }
+            OPTIONAL {
+                ?entity   schema:sameAs ?aduri_direct  .
+                filter(strstarts(str(?aduri_direct),"http://kg.artsdata.ca/resource/K"))
+                ?wduri_direct schema:sameAs   ?aduri_direct .
+                filter(strstarts(str(?wduri_direct),"http://www.wikidata.org/entity/Q"))
+            }
             bind(coalesce(?wduri_direct, ?wduri_indirect)   as ?wduri) 
-            filter(bound(?wduri))
+            filter(bound(?aduri))
         } group by ?entity ?name  ?type ?wasDerivedFrom ?aduri ?country ?addressLocality ?postalCode ?bn  ?wduri
     }
     OPTIONAL {
@@ -63,11 +74,11 @@ select * where {
                        p:P463 ?statement.
                 ?statement ps:P463 wd:Q110938829.
                 OPTIONAL {
-                  ?wduri schema:description ?wdDescEn .
+                    ?wduri schema:description ?wdDescEn .
                     filter(lang(?wdDescEn) = "en")
                 }
-                 OPTIONAL {
-                  ?wduri schema:description ?wdDescFr .
+                OPTIONAL {
+                    ?wduri schema:description ?wdDescFr .
                     filter(lang(?wdDescFr) = "fr")
                 }
                 OPTIONAL {
