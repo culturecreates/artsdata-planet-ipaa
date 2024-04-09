@@ -58,26 +58,26 @@ select * where {
     }
     OPTIONAL {
         SERVICE <https://query.wikidata.org/sparql> {
-            SELECT ?wduri ?wduriLabel ?wdLatestStartDate ?wdPointInTime ?retrievedDate ?referenceUrl ?descriptionEn ?descriptionFr WHERE {
+            SELECT ?wduri ?wduriLabel ?wdLatestStartDate ?wdPointInTime ?wdRetrievedDate ?wdReferenceUrl ?wdDescEn ?wdDescFr WHERE {
                 ?wduri wdt:P463 wd:Q110938829;
                        p:P463 ?statement.
                 ?statement ps:P463 wd:Q110938829.
                 OPTIONAL {
-                  ?wduri schema:description ?descriptionEn .
-                    filter(lang(?descriptionEn) = "en")
+                  ?wduri schema:description ?wdDescEn .
+                    filter(lang(?wdDescEn) = "en")
                 }
                  OPTIONAL {
-                  ?wduri schema:description ?descriptionFr .
-                    filter(lang(?descriptionFr) = "fr")
+                  ?wduri schema:description ?wdDescFr .
+                    filter(lang(?wdDescFr) = "fr")
                 }
                 OPTIONAL {
                     ?statement prov:wasDerivedFrom ?ref.
                     ?ref pr:P248 wd:Q113164737.
                     OPTIONAL {
-                        ?ref pr:P813 ?retrievedDate.
+                        ?ref pr:P813 ?wdRetrievedDate.
                     }
                     OPTIONAL {
-                        ?ref pr:P854 ?referenceUrl.
+                        ?ref pr:P854 ?wdReferenceUrl.
                     }
                 }
                 OPTIONAL {
