@@ -1,0 +1,61 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX schema: <http://schema.org/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX pr: <http://www.wikidata.org/prop/reference/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+select * where {
+    {
+        SERVICE <https://query.wikidata.org/sparql> {
+            SELECT ?adid ?wduri ?wduriLabel ?wdLatestStartDate ?wdPointInTime ?retrievedDate ?referenceUrl ?descriptionEn ?descriptionFr WHERE {
+                ?wduri wdt:P463 wd:Q110938829;
+                       wdt:P31 wd:Q5 ;
+                       p:P463 ?statement.
+                ?statement ps:P463 wd:Q110938829.
+                OPTIONAL {
+                    ?wduri schema:description ?descriptionEn .
+                    filter(lang(?descriptionEn) = "en")
+                }
+                OPTIONAL {
+                    ?wduri schema:description ?descriptionFr .
+                    filter(lang(?descriptionFr) = "fr")
+                }
+                OPTIONAL {
+                    ?wduri wdt:P7627 ?adid 
+                }
+                OPTIONAL {
+                    ?statement prov:wasDerivedFrom ?ref.
+                    ?ref pr:P248 wd:Q113164737.
+                    OPTIONAL {
+                        ?ref pr:P813 ?retrievedDate.
+                    }
+                    OPTIONAL {
+                        ?ref pr:P854 ?referenceUrl.
+                    }
+                }
+                OPTIONAL {
+                    ?statement pq:P8555 ?wdLatestStartDate.
+                }
+                OPTIONAL {
+                    ?statement pq:P585 ?wdPointInTime .
+                }
+                SERVICE wikibase:label {
+                    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+                }
+            }
+        } 
+    }
+    bind(URI(concat("http://kg.artsdata.ca/resource/",?adid)) as ?aduri)
+    OPTIONAL {
+        ?ipaa schema:sameAs ?aduri .
+        filter(contains(str(?ipaa),"ipaa.ca"))
+    }
+    OPTIONAL {
+        ?aduri schema:sameAs ?ipaa  .
+        filter(contains(str(?ipaa),"ipaa.ca"))
+    }
+}
