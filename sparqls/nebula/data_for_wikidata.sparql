@@ -10,7 +10,7 @@ PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX bd: <http://www.bigdata.com/rdf#>
 select * where {
     {
-        select  ?entity   ?type (group_concat(DISTINCT ?knowsAboutWdid) as ?knowsAbout) ?wasDerivedFrom    ?country  ?addressLocality ?postalCode ?bn  ?wduri ?aduri  ?name
+        select  ?entity  ?type ?aduri  ?name (group_concat(DISTINCT ?knowsAboutWdid) as ?knowsAbout) ?wasDerivedFrom    ?country  ?addressLocality ?postalCode ?bn  ?wduri 
         where {
             graph <http://kg.artsdata.ca/culture-creates/artsdata-planet-ipaa/ipaa-entities> {
                 values ?type {
@@ -58,7 +58,7 @@ select * where {
                 filter(strstarts(str(?wduri_direct),"http://www.wikidata.org/entity/Q"))
             }
             OPTIONAL {
-                ?entity   schema:sameAs ?aduri_direct  .
+               ?aduri_direct    schema:sameAs  ?entity .
                 filter(strstarts(str(?aduri_direct),"http://kg.artsdata.ca/resource/K"))
                 ?wduri_direct schema:sameAs   ?aduri_direct .
                 filter(strstarts(str(?wduri_direct),"http://www.wikidata.org/entity/Q"))
