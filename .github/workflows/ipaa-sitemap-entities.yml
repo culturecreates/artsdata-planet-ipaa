@@ -3,7 +3,7 @@ name: Fetch IPAA artists and organizations using sitemap
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 */6 *'
+    - cron: '0 0 3 */2 *'
       
 jobs:
   fetch-and-commit-data:
