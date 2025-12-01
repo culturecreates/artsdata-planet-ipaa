@@ -10,4 +10,4 @@ View IPAA Entities in Artsdata.ca with the [Nebula viewer](http://kg.artsdata.ca
 Data for Wikidata upload is [here](http://kg.artsdata.ca/query/show?sparql=https%3A%2F%2Fraw.githubusercontent.com%2Fculturecreates%2Fartsdata-planet-ipaa%2Fmain%2Fsparqls%2Fnebula%2Fdata_for_wikidata.sparql&title=IPAA+data+for+Wikidata).
 
 Check for artists no longer member 
-[here](http://kg.artsdata.ca/query/show?sparql=https%3A%2F%2Fraw.githubusercontent.com%2Fculturecreates%2Fartsdata-planet-ipaa%2Fmain%2Fsparqls%2Fnebula%2Fcheck_for_artists_not_members.sparql&title=Artist IPAA+Members+Report).
+[here](http://kg.artsdata.ca/query/show?sparql=https%3A%2F%2Fraw.githubusercontent.com%2Fculturecreates%2Fartsdata-planet-ipaa%2Fmain%2Fsparqls%2Fnebula%2Fcheck_for_artists_not_members.sparql&title=Artist+IPAA+Members+Report) according to Wikidata dates.
